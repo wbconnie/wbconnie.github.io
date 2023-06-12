@@ -17,5 +17,4 @@ featured: true
 
 
 
-回忆里的天宁寺。。
-
+<p align="left">回忆里的天宁寺..</p>
