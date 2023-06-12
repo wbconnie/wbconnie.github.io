@@ -1,8 +1,8 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '从农场到海洋：保育红树林，维系当地人生计，保护地球 '
+title: '回忆美好与不美好 '
 pubDate: 2023-06-12
-description: 'Apple 与 Applied Environmental Research Foundation 合作，将促进印度马哈拉施特拉邦红树林的保育工作'
+description: '回忆过去'
 author: 'wbconnie'
 cover:
     url: 'https://img1.imgtp.com/2023/06/12/xXWXAhyx.jpeg'
