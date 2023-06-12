@@ -5,8 +5,8 @@ pubDate: 2023-06-12
 description: '博客搭建初体验'
 author: 'wbconnie'
 cover:
-    url: 'https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-hero-230118_big.jpg.large_2x.jpg'
-    square: 'https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-hero-230118_big.jpg.large_2x.jpg'
+    url: 'https://img1.imgtp.com/2023/06/12/IdWMaCUp.png'
+    square: 'https://img1.imgtp.com/2023/06/12/IdWMaCUp.png'
     alt: 'cover'
 tags: ["碎碎念", "Apple", "Blog"] 
 theme: 'light'
