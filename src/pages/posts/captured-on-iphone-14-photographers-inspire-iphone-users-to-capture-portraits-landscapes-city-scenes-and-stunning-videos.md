@@ -38,3 +38,10 @@ https://imgur.com/a/p68voT4
 https://weibo.com/u/5775159888?tabtype=newVideo&layerid=4670224299722791
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/p68voT4" data-context="false" ><a href="//imgur.com/a/p68voT4"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+
+https://github.com/wbconnie/wbconnie.github.io/blob/main/src/pages/posts/assets/CleanShot%202023-06-12%20at%2019.49.18%402x.png
+
+https://github.com/wbconnie/wbconnie.github.io/blob/main/src/pages/posts/assets/IMG_9987%201.jpg
+
+https://github.com/wbconnie/wbconnie.github.io/blob/main/src/pages/posts/assets/%E5%A5%BD%E6%83%B3%E4%BD%A0%F0%9F%98%98.m4a
