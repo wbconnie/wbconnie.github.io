@@ -1,12 +1,12 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '用 iPhone 14 拍摄：摄影佳作激发创作灵感，定格精彩人像、自然与城市风光'
+title: '黄山乱乱走'
 pubDate: 2035-09-01
 description: '用 iPhone 14 拍摄：摄影佳作激发创作灵感，定格精彩人像、自然与城市风光'
 author: 'Apple Newsroom'
 cover:
-    url: 'https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_iPhone-14-Pro-Max-with-the-Main-Camera-by-Xiaobei-Fuzhou_12192022_Full-Bleed-Image.jpg.xlarge_2x.jpg'
-    square: 'https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_iPhone-14-Pro-Max-with-the-Main-Camera-by-Xiaobei-Fuzhou_12192022_Full-Bleed-Image.jpg.xlarge_2x.jpg'
+    url: 'https://img1.imgtp.com/2023/06/12/6iGDlh3B.jpeg'
+    square: 'https://img1.imgtp.com/2023/06/12/xRZHs7Z7.jpeg'
     alt: 'cover'
 tags: ["新闻稿", "Apple", "iPhone 14", "摄影"] 
 theme: 'dark'
@@ -15,7 +15,7 @@ featured: true
 
 
 
-![小北 使用 iPhone 14 Pro 4800 万像素主摄于福州拍摄。|wide](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_iPhone-14-Pro-Max-with-the-Main-Camera-by-Xiaobei-Fuzhou_12192022_Full-Bleed-Image.jpg.xlarge_2x.jpg)
+![小北 使用 iPhone 14 Pro 4800 万像素主摄于福州拍摄。|wide](https://www.youtube.com/watch?v=HhNVeWTB5bU)
 
 通过 iPhone 14 Pro Max，iPhone 14 Pro，iPhone 14 以及 iPhone 14 Plus 上突破性创新的摄像头系统，中国的摄影师们拍摄并分享令人惊艳的照片和视频，以此激励更多 iPhone 用户在即将到来的节日假期中捕捉亮丽的城市景观、迷人的自然风光，并记录下与亲人相聚的难忘时刻。
 
