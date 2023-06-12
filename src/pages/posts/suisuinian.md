@@ -14,4 +14,8 @@ featured: true
 ---
 
 
-想到什么就写什么叭
+
+想到什么
+就写什么了
+<p align="left">月是故乡明</p>
+<center>月是故乡明</center>
