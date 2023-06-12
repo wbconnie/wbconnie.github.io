@@ -13,7 +13,7 @@ theme: 'dark'
 featured: false
 ---
 
-![图片来自虚幻引擎官网|wide](https://cdn2.unrealengine.com/unreal-engine-5-1-features-for-fortnite-chapter-4-header-1920x1080-2e96869442d6.jpg?resize=1&w=1920)
+
 
 
 十二月初，当《堡垒之夜：大逃杀》第四章第一赛季发布时，玩家很难不注意到视觉保真度和细节得到了质的提升。这并不是巧合，通过虚幻引擎5.1，游戏的最新章节利用了虚幻引擎5最具创新性的全新功能，如Lumen、Nanite、虚拟阴影贴图和时序超级分辨率等等。
@@ -32,7 +32,7 @@ Lumen是虚幻引擎5中新引入的实时全局光照和反射解决方案。Lu
 
 《堡垒之夜》的世界充满了树木和草地，这是一片理想的试验场，让我们能够改进Lumen间接光照在这类环境中的质量。
 
-![堡垒之夜](https://cdn2.unrealengine.com/unreal-engine-5-1-features-for-fortnite-chapter-4-lumen-1920x1080-81dc92ab2770.jpg?resize=1&w=1920)
+
 
 
 ## Nanite
