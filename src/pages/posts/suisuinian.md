@@ -8,7 +8,7 @@ cover:
     url: 'https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-hero-230118_big.jpg.large_2x.jpg'
     square: 'https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-hero-230118_big.jpg.large_2x.jpg'
     alt: 'cover'
-tags: ["Blog", "Apple", "碎碎念"] 
+tags: ["碎碎念", "Apple", "Blog"] 
 theme: 'light'
 featured: true
 
