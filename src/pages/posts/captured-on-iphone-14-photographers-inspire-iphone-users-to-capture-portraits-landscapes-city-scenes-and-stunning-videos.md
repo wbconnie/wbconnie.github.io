@@ -1,9 +1,9 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: '黄山乱乱走'
-pubDate: 2035-09-01
+pubDate: 2023-06-12
 description: '用 iPhone 14 拍摄：摄影佳作激发创作灵感，定格精彩人像、自然与城市风光'
-author: 'Apple Newsroom'
+author: 'wbconnie'
 cover:
     url: 'https://img1.imgtp.com/2023/06/12/6iGDlh3B.jpeg'
     square: 'https://img1.imgtp.com/2023/06/12/xRZHs7Z7.jpeg'
