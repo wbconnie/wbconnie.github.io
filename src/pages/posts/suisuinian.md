@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: '每日碎碎念'
-pubDate: 2035-8-01
+pubDate: 2023-06-12
 description: '胡思乱想的小王😶‍🌫️'
 author: 'wbconnie'
 cover:
