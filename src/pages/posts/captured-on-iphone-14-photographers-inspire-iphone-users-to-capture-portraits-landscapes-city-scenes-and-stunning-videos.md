@@ -67,6 +67,3 @@ iPhone 14 Pro 和 iPhone 14 Pro Max 上搭载的 Pro 级摄像头系统挑战 iP
 iPhone 14 系列的所有摄像头均支持夜间模式，这意味着当用户在深夜拍摄风景或在低光条件下自拍时，照片会被神奇地点亮。同时，夜间模式现将广角摄像头的想象力提升到全新水平，得益于更大的感光元件和更快的光圈，使 iPhone 14 和 iPhone 14 Plus 上的曝光时间最快提升可达 2 倍。
 
 ![赵华鹏 使用 iPhone 14 Pro Max 主摄的夜间模式于三亚拍摄。](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_Shot-on-iPhone-14-Pro-Max-with-the-Main-camera-using-Night-mode-by-Jamie-Sanya_12192022_big.jpg.large_2x.jpg)
-[好想你😘.m4a](assets/%E5%A5%BD%E6%83%B3%E4%BD%A0%F0%9F%98%98.m4a)
-
-https://t.wss.ink/f/bfrk1pbcndb 
