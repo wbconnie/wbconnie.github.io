@@ -36,3 +36,5 @@ iPhone 14 和 iPhone 14 Plus 为摄影和摄像设立了新标准，搭载具备
 
 https://imgur.com/a/p68voT4
 https://weibo.com/u/5775159888?tabtype=newVideo&layerid=4670224299722791
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/p68voT4" data-context="false" ><a href="//imgur.com/a/p68voT4"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
