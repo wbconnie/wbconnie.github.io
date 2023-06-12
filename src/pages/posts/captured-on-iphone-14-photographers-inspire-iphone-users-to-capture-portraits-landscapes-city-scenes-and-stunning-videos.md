@@ -30,3 +30,8 @@ iPhone 14 和 iPhone 14 Plus 为摄影和摄像设立了新标准，搭载具备
 ![Boogie93 使用 iPhone 14 主摄于上海拍摄。|inline](https://img1.imgtp.com/2023/06/12/xRZHs7Z7.jpeg)
 
 ![IMG_9987 1](assets/IMG_9987%201.jpg)
+
+![CleanShot 2023-06-12 at 19.49.18@2x](assets/CleanShot%202023-06-12%20at%2019.49.18@2x.png)
+
+
+https://imgur.com/a/p68voT4
