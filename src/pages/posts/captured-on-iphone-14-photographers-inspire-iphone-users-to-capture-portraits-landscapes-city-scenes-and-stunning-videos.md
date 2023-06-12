@@ -8,7 +8,7 @@ cover:
     url: 'https://img1.imgtp.com/2023/06/12/6iGDlh3B.jpeg'
     square: 'https://img1.imgtp.com/2023/06/12/xRZHs7Z7.jpeg'
     alt: 'cover'
-tags: ["新闻稿", "Apple", "iPhone 14", "摄影"] 
+tags: ["旅行日记", "黄山", "旅行", "摄影"] 
 theme: 'dark'
 featured: true
 ---
