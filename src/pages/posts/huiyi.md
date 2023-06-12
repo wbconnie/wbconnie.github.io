@@ -15,4 +15,4 @@ featured: true
 
 ![记忆里的天宁寺|wide](https://img1.imgtp.com/2023/06/12/xXWXAhyx.jpeg)
 
- 真的很久了
+ 记忆里的..
