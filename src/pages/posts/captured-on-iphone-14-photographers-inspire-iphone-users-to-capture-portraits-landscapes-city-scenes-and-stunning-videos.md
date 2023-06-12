@@ -15,19 +15,19 @@ featured: true
 
 
 
-![小北 使用 iPhone 14 Pro 4800 万像素主摄于福州拍摄。|wide](https://www.youtube.com/watch?v=HhNVeWTB5bU)
+![小北 使用 iPhone 14 Pro 4800 万像素主摄于福州拍摄。|wide](https://img1.imgtp.com/2023/06/12/KYLruPNK.jpeg)
 
 通过 iPhone 14 Pro Max，iPhone 14 Pro，iPhone 14 以及 iPhone 14 Plus 上突破性创新的摄像头系统，中国的摄影师们拍摄并分享令人惊艳的照片和视频，以此激励更多 iPhone 用户在即将到来的节日假期中捕捉亮丽的城市景观、迷人的自然风光，并记录下与亲人相聚的难忘时刻。
 
-![小北 使用 iPhone 14 Pro 超广角摄像头于福州拍摄。 |inline](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_Shot-on-iPhone-14-Pro-with-the-Ultra-wide-camera-by-Xiaobei-Fuzhou_12192022_inline.jpg.large_2x.jpg)
+![小北 使用 iPhone 14 Pro 超广角摄像头于福州拍摄。 |inline](https://img1.imgtp.com/2023/06/12/mbu0QmuG.jpeg)
 
-![Hojisan 使用 iPhone 14 Plus 主摄于重庆拍摄。](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_Shot-on-iPhone-14-Plus-with-the-Main-camera-by-Hojisan-Chongqing_121920221_inline.jpg.large_2x.jpg)
+![Hojisan 使用 iPhone 14 Plus 主摄于重庆拍摄。](https://img1.imgtp.com/2023/06/12/rWqjTqQK.jpeg)
 
 iPhone 14 和 iPhone 14 Plus 为摄影和摄像设立了新标准，搭载具备更大感光元件和像素尺寸的 1200 万像素主摄、首次配备自动对焦功能并采用 ƒ/1.9 光圈的全新前置原深感摄像头，以及超广角摄像头用于拍摄更宽广的场景。除此之外，光像引擎也带来低光表现的巨大跃升。
 
 通过软硬件深度集成，光像引擎能够提升所有摄像头在中低光环境下的照片表现：超广角摄像头表现提升可达 2 倍，原深感摄像头表现提升可达 2 倍，全新主摄表现提升可达 2.5 倍。iPhone 14 系列还推出全新的运动模式——即使在大幅的抖动和运动中，也能轻松拍摄无比丝滑的视频。
 
-![Boogie93 使用 iPhone 14 主摄于上海拍摄。|inline](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_Shot-on-iPhone-14-with-the-Main-camera-by-Boogie93-Shanghai_12192022_inline.jpg.large_2x.jpg)
+![Boogie93 使用 iPhone 14 主摄于上海拍摄。|inline](https://img1.imgtp.com/2023/06/12/xRZHs7Z7.jpeg)
 
 ![Hojisan 使用 iPhone 14 Plus 主摄于重庆拍摄。|inline](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_Shot-on-iPhone-14-Plus-with-the-Main-camera-by-Hojisan-Chongqing_12222022_inline.jpg.large_2x.jpg)
 
