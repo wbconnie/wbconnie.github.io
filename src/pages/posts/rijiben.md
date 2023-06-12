@@ -13,5 +13,8 @@ theme: 'light'
 featured: false
 ---
 
+
+![wbconnie 使用 iPhone 12 Pro Max 4800 万像素主摄于无锡拍摄。 |inline](https://img1.imgtp.com/2023/06/12/0LcQmZDB.jpg)
+
 ## 小王的日记本
 📝生活
