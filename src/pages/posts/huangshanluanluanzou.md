@@ -31,4 +31,4 @@ featured: true
 ![wbconnie 使用 iPhone 12 Pro Max 4800 万像素主摄于黄山拍摄。|inline](https://img1.imgtp.com/2023/06/12/6iGDlh3B.jpeg)
 
 
-<p align="left">期待下次可以看到云海呀☁️</p>
+<p align="left">期待下次可以看到云海呀</p>
