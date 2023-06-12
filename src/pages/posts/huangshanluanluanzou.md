@@ -17,7 +17,6 @@ featured: true
 
 ![wbconnie 使用 iPhone 12 Pro Max 4800 万像素主摄于黄山拍摄。|wide](https://img1.imgtp.com/2023/06/12/KYLruPNK.jpeg)
 
-通过 iPhone 用户在即将到来的节日假期中捕捉亮丽的城市景观、迷人的自然风光，并记录下与亲人相聚的难忘时刻。
 
 ![wbconnie 使用 iPhone 12 Pro Max 4800 万像素主摄于黄山拍摄。 |inline](https://img1.imgtp.com/2023/06/12/mbu0QmuG.jpeg)
 
