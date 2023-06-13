@@ -22,3 +22,6 @@ featured: true
 
 
 ![救命｜inline]（https://github.com/wbconnie/wbconnie.github.io/blob/main/public/preview/IMG_4665.PNG）
+
+
+![wbconnie 使用 iPhone 12 Pro Max 4800 万像素主摄于黄山拍摄。|wide](https://github.com/wbconnie/wbconnie.github.io/blob/main/public/preview/IMG_4665.PNG)
