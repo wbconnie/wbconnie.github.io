@@ -5,8 +5,8 @@ pubDate: 2023-06-13
 description: '和同事忙了一天'
 author: 'wbconnie'
 cover:
-    url: 'https://github.com/wbconnie/wbconnie.github.io/blob/main/public/preview/IMG_4665.PNG'
-    square: 'https://github.com/wbconnie/wbconnie.github.io/blob/main/public/preview/IMG_4665.PNG'
+    url: 'https://raw.githubusercontent.com/wbconnie/wbconnie.github.io/e0d4304a1f9c1010156563baa6560ec1863b1b0c/public/preview/3C99A541-AEB2-41CD-816C-E8BC6589828D_1_105_c%20(1).jpeg'
+    square: 'https://raw.githubusercontent.com/wbconnie/wbconnie.github.io/e0d4304a1f9c1010156563baa6560ec1863b1b0c/public/preview/3C99A541-AEB2-41CD-816C-E8BC6589828D_1_105_c%20(1).jpeg'
     alt: 'cover'
 tags: ["碎碎念", "blog"]
 theme: 'dark'
@@ -18,10 +18,4 @@ featured: true
 
 
 ## 碎碎念
-今天真的太忙了
-
-
-![救命｜inline]（https://github.com/wbconnie/wbconnie.github.io/blob/main/public/preview/IMG_4665.PNG）
-
-
-![wbconnie 使用 iPhone 12 Pro Max 4800 万像素主摄于黄山拍摄。|wide](https://github.com/wbconnie/wbconnie.github.io/blob/main/public/preview/IMG_4665.PNG)
+今天真的太忙了1
