@@ -47,7 +47,11 @@ featured: true
 
 反正也是写给自己看的  
 
+今天中午没有提前吃饭呢，去便利店买了一份牛腩饭+红牛  
 
+然后又买了杯瑞幸
+
+![wbconnie 使用 iPhone 12 Pro Max 4800 万像素主摄于黄山拍摄。 |inline](https://github.com/wbconnie/wbconnie.github.io/blob/main/public/preview/ruixing.jpg?raw=true)
 
 
 
