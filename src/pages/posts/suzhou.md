@@ -25,6 +25,6 @@ featured: false
 
 ![假山](https://github.com/wbconnie/wbconnie.github.io/blob/main/public/preview/suzhoujiashan.jpg?raw=true)  
 
-![留园](https://github.com/wbconnie/wbconnie.github.io/blob/main/public/preview/suzhouliuyuan.jpg?raw=true)
+![留园](https://github.com/wbconnie/wbconnie.github.io/blob/main/public/preview/suzhouliuyuan.jpg?raw=true)  
 
 下次要去拙政园～
