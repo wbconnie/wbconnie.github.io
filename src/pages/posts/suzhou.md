@@ -27,4 +27,4 @@ featured: false
 
 ![留园](https://github.com/wbconnie/wbconnie.github.io/blob/main/public/preview/suzhouliuyuan.jpg?raw=true)  
 
-下次要去拙政园～
+<p align="left">下次要去拙政园～</p>
