@@ -17,4 +17,4 @@ featured: true
 ![wbconnie 使用 iPhone 12 Pro Max 4800 万像素主摄于常州拍摄。 |inline](https://github.com/wbconnie/wbconnie.github.io/blob/main/public/preview/shuilian.png?raw=true)
 
 
-## 碎碎念  
+<p align="left">## 碎碎念  </p>
