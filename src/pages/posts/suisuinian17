@@ -1,0 +1,20 @@
+---
+layout: '../../layouts/MarkdownPost.astro'
+title: '早睡早起的一天'
+pubDate: 2023-06-16
+description: '四点钟就起床啦'
+author: 'wbconnie'
+cover:
+    url: 'https://raw.githubusercontent.com/wbconnie/wbconnie.github.io/main/public/preview/m.jpg'
+    square: 'https://raw.githubusercontent.com/wbconnie/wbconnie.github.io/main/public/preview/m.jpg'
+    alt: 'cover'
+tags: ["碎碎念", "blog"]
+theme: 'dark'
+featured: true
+---
+
+
+![wbconnie 使用 iPhone 12 Pro Max 4800 万像素主摄于常州拍摄。 |inline](https://raw.githubusercontent.com/wbconnie/wbconnie.github.io/main/public/preview/aoruib.jpg)
+
+
+## 碎碎念  
