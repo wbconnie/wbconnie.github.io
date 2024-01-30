@@ -5,7 +5,7 @@ pubDate: 2023-06-12
 description: '用 iPhone 12 Pro Max 拍摄：摄影佳作激发创作灵感，定格精彩风光'
 author: 'wbconnie'
 cover:
-    url: 'https://img1.imgtp.com/2023/06/12/xRZHs7Z7.jpeg'
+    url: '[https://img1.imgtp.com/2023/06/12/xRZHs7Z7.jpeg](https://github.com/wbconnie/wbconnie.github.io/blob/main/public/preview/huahua.jpg?raw=true)'
     square: 'https://img1.imgtp.com/2023/06/12/xRZHs7Z7.jpeg'
     alt: 'cover'
 tags: ["旅行日记", "黄山", "旅行", "摄影"] 
