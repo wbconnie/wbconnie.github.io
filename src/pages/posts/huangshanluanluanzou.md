@@ -44,6 +44,8 @@ featured: true
 
 ![wbconnie 文化广场 |inline](https://img2.imgtp.com/2024/04/16/JYCUENY6.jpg)
 
+![wbconnie｜文化广场 |inline](https://img2.imgtp.com/2024/04/16/XatF5Nua.jpg)
+
 ![wbconnie｜隔湖公园 |inline](https://img2.imgtp.com/2024/04/16/8GqaeBfL.jpg)
 
 ![wbconnie ｜ 隔湖公园 |inline](https://img2.imgtp.com/2024/04/16/rBxTZsN8.jpg)
