@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: '常州'
-pubDate: 2023-06-12
+pubDate: 2024-04-16
 description: '用 iPhone 15 Pro Max 拍摄：摄影佳作激发创作灵感，定格精彩风光'
 author: 'wbconnie'
 cover:
@@ -14,7 +14,7 @@ featured: true
 ---
 
 
-测试一下
+
 
 ![wbconnie |wide](https://img2.imgtp.com/2024/04/16/Cuyfba03.jpg)
 
