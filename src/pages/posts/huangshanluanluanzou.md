@@ -1,14 +1,14 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '黄山乱乱走'
+title: '常州'
 pubDate: 2023-06-12
-description: '用 iPhone 12 Pro Max 拍摄：摄影佳作激发创作灵感，定格精彩风光'
+description: '用 iPhone 15 Pro Max 拍摄：摄影佳作激发创作灵感，定格精彩风光'
 author: 'wbconnie'
 cover:
-    url: 'https://i0.imgs.ovh/2024/01/30/KsUS2.jpeg'
-    square: 'https://i0.imgs.ovh/2024/01/30/KsUS2.jpeg'
+    url: 'https://img2.imgtp.com/2024/04/16/sKMT5AAZ.jpg'
+    square: 'https://img2.imgtp.com/2024/04/16/8Cwa7cbS.jpg'
     alt: 'cover'
-tags: ["旅行日记", "黄山", "旅行", "摄影"] 
+tags: ["旅行日记", "常州", "旅行", "摄影"] 
 theme: 'dark'
 featured: true
 ---
@@ -16,19 +16,19 @@ featured: true
 
 测试一下
 
-![wbconnie 使用 iPhone 12 Pro Max 4800 万像素主摄于黄山拍摄。|wide](https://img1.imgtp.com/2023/06/12/KYLruPNK.jpeg)
+![wbconnie 使用 iPhone 12 Pro Max 4800 万像素主摄于黄山拍摄。|wide](https://img2.imgtp.com/2024/04/16/Cuyfba03.jpg)
 
 
-![wbconnie 使用 iPhone 12 Pro Max 4800 万像素主摄于黄山拍摄。 |inline](https://img1.imgtp.com/2023/06/12/mbu0QmuG.jpeg)
+![wbconnie 使用 iPhone 12 Pro Max 4800 万像素主摄于黄山拍摄。 |inline](https://img2.imgtp.com/2024/04/16/P75LBjFQ.jpg)
 
-![wbconnie 使用 iPhone 12 Pro Max 4800 万像素主摄于黄山拍摄。](https://img1.imgtp.com/2023/06/12/rWqjTqQK.jpeg)
-
-
-
-![wbconnie 使用 iPhone 12 Pro Max 4800 万像素主摄于黄山拍摄。|inline](https://img1.imgtp.com/2023/06/12/xRZHs7Z7.jpeg)
+![wbconnie 使用 iPhone 12 Pro Max 4800 万像素主摄于黄山拍摄。](https://img2.imgtp.com/2024/04/16/cipQmM6l.jpg)
 
 
-![wbconnie 使用 iPhone 12 Pro Max 4800 万像素主摄于黄山拍摄。|inline](https://img1.imgtp.com/2023/06/12/6iGDlh3B.jpeg)
+
+![wbconnie 使用 iPhone 12 Pro Max 4800 万像素主摄于黄山拍摄。|inline](https://img2.imgtp.com/2024/04/16/1t8aN6vt.jpg)
+
+
+![wbconnie 使用 iPhone 12 Pro Max 4800 万像素主摄于黄山拍摄。|inline](https://img2.imgtp.com/2024/04/16/OyqjFZlX.jpg)
 
 
 <p align="left">期待下次可以看到云海呀</p>
